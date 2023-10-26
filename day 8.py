@@ -44,7 +44,7 @@ alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
 # text = input("Type your message:\n").lower()
 # shift = int(input("Type  the shift number: \n"))
 
-text = "ZULU"
+text = "LUZU"
 shift = 5
 
 print(f"starting message is {text}")
